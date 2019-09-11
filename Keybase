@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am dinopitaya on github.
+  * I am dinopitaya (https://keybase.io/dinopitaya) on keybase.
+  * I have a public key ASCii-CpXp4zRTs9oifdLlmBd3q0Yq7zg0v41c2OLlmIXwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a28be0a95e9e33453b3da227dd2e5981777ab462aef3834bf8d5cd8e2e59885f0a",
+      "host": "keybase.io",
+      "kid": "0120a28be0a95e9e33453b3da227dd2e5981777ab462aef3834bf8d5cd8e2e59885f0a",
+      "uid": "8e12eb40b0ece04ace366fc3ce6bf819",
+      "username": "dinopitaya"
+    },
+    "merkle_root": {
+      "ctime": 1568243500,
+      "hash": "f3e950048a52ebba20c1116cc02cc22f982fcd30a4308816b8b2f21132056d4c72f9154bcf10f1fd439e5372fd0b4987c6246f222013905c847ab1d2b4daaa9e",
+      "hash_meta": "b3d60c474fd44faee2e6e17c6690bbae35d61b722f0e6922e12105ae6ee52753",
+      "seqno": 6836078
+    },
+    "service": {
+      "entropy": "RhLFMbt+6MDOE6xemGuXUYI7",
+      "name": "github",
+      "username": "dinopitaya"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568243507,
+  "expire_in": 504576000,
+  "prev": "117b010abd7a70b769161ab828fcfed4180ef10f0209c0ed6574ed7331dec28f",
+  "seqno": 6,
+  "tag": "signature"
+}
+```
+
+with the key [ASCii-CpXp4zRTs9oifdLlmBd3q0Yq7zg0v41c2OLlmIXwo](https://keybase.io/dinopitaya), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgoovgqV6eM0U7PaIn3S5ZgXd6tGKu84NL+NXNji5ZiF8Kp3BheWxvYWTESpcCBsQgEXsBCr16cLdpFhq4KPz+1BgO8Q8CCcDtZXTtczHewo/EIBG+is/iOkb1GgPPReROw3r1rMalyk4szEGxFIn5jkisAgHCo3NpZ8RAc+bqGbDMU2/gz/Nr2Y5eU772fcAQ8CIyrmqR/yIHpM6GAXInvujvdP7Y63KnYoang2F1uXJTdesCAU/kHomEAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHjZ18MZiEZkAMK3w0iGOS5fiq5NLZbGw8ezefMzhSwbo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/dinopitaya
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id dinopitaya
+```
